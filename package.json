@@ -10,6 +10,16 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "sass": "^1.85.1"
-  }
+    "sass": "^1.97.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TShelton41/midterm.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TShelton41/midterm/issues"
+  },
+  "homepage": "https://github.com/TShelton41/midterm#readme"
 }

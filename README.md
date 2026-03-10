@@ -12,3 +12,6 @@ You will need to open VSC and clone this repo. Then follow these steps to get it
 3. Look over your project to familiarize yourself with the project.
 4. This project used Sass so you will need to make sure you compile your scss files to create your css file.
 5. Once you complete your midterm. Upload your project to Web 4 and submit the URL to the assignment in Canvas.
+
+## web4 Link 
+https://in-info-web4.luddy.indianapolis.iu.edu/~aadesaki/midterm/
